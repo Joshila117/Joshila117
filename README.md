@@ -2,7 +2,7 @@
 - 👀 I’m FullStack Developer interested in Software Development
 - 👩🏻‍🎓 I'm a Grad student from Western Illinois University
 - 📫 You can reach me j-gubbala@wiu.edu
-- 🤖 I'm good in Angular, React, Java, SpringBoot, GraphQL, Kafka, Testing - JUnit, Mockito
+- 🤖 I'm good in Angular, React, Java, SpringBoot, DevOps, DevSecOps, GraphQL, Kafka, Testing - JUnit, Mockito
 - 🤳🏻 You can follow me for cool and interesting projects, if you are techie!
 
 
